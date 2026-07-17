@@ -2,6 +2,8 @@
 
 Landing page desenvolvida com HTML e CSS, apresentando uma interface moderna e responsiva.
 
+<img src="projeto_PeopleCore_imagem.png" alt="imagem do projeto">
+
 ## Tecnologias
 
 * HTML5
